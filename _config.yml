@@ -112,6 +112,13 @@ content:
             - Facilitated the deployment of 1Password for centralized storage of secured passwords, secrets, and keys
             - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 
             and Laceworks for GCP and AWS for security posture
+            
+- title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+
            
 
   - title: Education # Title for the section
