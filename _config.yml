@@ -123,31 +123,26 @@ content:
           Municipal Credit Union (MCU) is a state chartered credit union headquartered in New York City, 
           regulated under the authority of the National Credit Union Administration (NCUA). 
         description: | # this will include new lines to allow paragraphs
-            - Automated deployments tasks with PowerShell such as version upgrading, reporting in Exchange/Active Directory, 
+            - Automated deployments tasks with PowerShell such as version upgrading/uninstall, reporting in Exchange/Active Directory, 
             mass deletion of emails in Exchange, bulk moving of user/computer objects to OUs
-            - Participated in Agile projects as Product Owner and Team Member to timely deliver MVPs at the end of sprints and the final product
             - Responsible for Infrastructure System Administration for Active Directory, GPO, DNS and DHCP
+            - Run weekly change management meetings to discuss and/or review upcoming changes on all systems that are moving from UAT to Production
+            - Participated in Agile projects as Product Owner and Team Member to timely deliver MVPs at the end of sprints and the final product
+            - Supervised IT Helpdesk and IT Technician team to delegate support tasks 
             - Managed Hyper-V and VMware ESXi virtualization systems 
-            - Decommission Windows Server 2018 servers due to EOL and migrate required servers to 2012r2 or above
+            - Decommission EOL Windows Server 2018 servers and migrate servers to 2012r2 or above
             - Physical to Virtual migration of servers to reduce operating overhead and consolidate physical servers
             - Implementation of “hybrid” m365 to co-exist with standard Microsoft Office suite as the company slowly transition 
-            productivity tools to the cloud
-            - Migrate from Cisco Webex to Microsoft Teams, create policies for standard usage and user documentations for employee – 
-            integrate A/V hardware into conference rooms to utilize Teams
+            productivity tools to the cloud. Migrate from Cisco Webex to Microsoft Teams, create policies for standard usage and user documentations for employee
             - Assisted with annual BCP/DR failover by testing production site and ensuring backups are active
-            - Implemented Azure AD hybrid by using Cloud Connector to make sure on premise AD is replicated to the cloud  
-            - Supervised IT Helpdesk and IT Technician team to delegate support tasks  
+            - Implemented Azure AD hybrid by using Cloud Connector to make sure on premise AD is replicated to the cloud 
             - Converted the existing IT ticketing system BridgeTrak to BMC TrackIT
-            - Responsible for IT equipment inventory and created an asset management system to track the ownership of devices
             - Implemented Apple DEP and VPP for Airwatch MDM management 
             - Managed the lifecycle and development of SCCM, including patch management, third party application/package deployment/removal, 
             golden image creation, PXE imaging and reporting
-            - Monitored and maintained Veritas Netbackup policies and jobs, handling upgrades with support from vendors
             - Managed and maintained Exchange 2013/2016 servers, migrating mailboxes to testing high availability
             - Worked with developers to create a new in-house onboarding and off-boarding system
             - Implemented policies and groups for Cisco AMP/Cisco Secure Endpoint to replace Symantec Endpoint
-            - Handled vendor management for server, software and infrastructure orders
-            - Acted as an SME for Jack Henry’s Synergy and ImageCenter applications 
             
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -161,17 +156,22 @@ content:
           Municipal Credit Union (MCU) is a state chartered credit union headquartered in New York City, 
           regulated under the authority of the National Credit Union Administration (NCUA). 
         description: | # this will include new lines to allow paragraphs
-            - Utilized Powershell for targeted application uninstalls, changing TCP/IP settings on workstations, mass renaming files, 
+            - Utilized Powershell for changing TCP/IP settings on workstations, mass renaming files, 
             backing up print server and reporting VM replication status
             - Planned, facilitated and migrated Windows 7 to Windows 10 via hardware upgrades or SCCM based on hardware age
             - Support end users with their operating system and application issues physically and remotely
+            - Implement SCOM for server monitoring and stability, act on alerts triggered during/after business hours
+            - Remediate Symantec Endpoint Protection alerts related to device control, malware/antivirus findings
             - Created documentation for troubleshooting and procedures for knowledge transfer and retention
             - Communicated with vendors for troubleshooting third party software
-            - Acted as Tier 3 escalation support for helpdesk issues
+            - Acted as Tier 3 escalation support for helpdesk and technician issues
             - Resolved ticket issues involving company hardware such as printers, keyboards, mice and other peripherals 
-            - Commissioned and decommissioned HPE Proliant servers
+            - Commissioned and decommissioned HPE Proliant servers. Perform server hardware upgrades such as adding PCI cards, 
+            RAID cards, RAM, HDD/SDD, CPU and PSU.
             - Assisted company with PCI-DSS certification by working with auditors and remediating findings 
-            - Assisted with application implementations and upgrades such as Imprivata SSO and Gemalto HSM
+            - Assisted with application implementations and upgrades such as Imprivata SSO and Gemalto HSM for file encryption
+            - Acted as an SME for Jack Henry’s Synergy and ImageCenter applications 
+            - Responsible for IT equipment inventory and created an asset management system to track the ownership of devices
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
