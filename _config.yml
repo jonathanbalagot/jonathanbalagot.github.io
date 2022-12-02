@@ -114,16 +114,18 @@ content:
             and Laceworks for GCP and AWS for security posture
           
 
-  - title: Education # Title for the section
+  - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Monroe College, New York
-        sub_title: Associates in Science, Computer Information Systems
+        title: Symbiont
+        link: symbiont.io
+        sub_title: Corporate IT Engineer
+        caption: January 2022 – Present
+        quote: >
+          Municipal Credit Union (MCU) is a state chartered credit union headquartered in New York City, 
+          regulated under the authority of the National Credit Union Administration (NCUA). 
         description: | # this will include new lines to allow paragraphs
-          - Summa Cum Laude.
-          - President’s List
-          - Dean’s List
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
