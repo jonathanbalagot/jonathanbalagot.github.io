@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Technical Experience # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: top-middle
+      #- layout: top-middle
         #title: Super awesome project
         #link: github.com/sproogen
         # link_text: Project Website
@@ -67,7 +67,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
+        #description: | # this will include new lines to allow paragraphs
 		- Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
 		- Exchange 2013/2016, Google Mail
 		- Patch Management and Vendor Updates
