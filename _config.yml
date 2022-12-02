@@ -31,9 +31,9 @@ linkedin_username: jonathan-balagot
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#- title: jonathanbalagot.com
+#  icon: fas fa-globe
+#  url: https://jonathanbalagot.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,18 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Jonathan and I'm a IT Engineer experienced in on premise and cloud infrastructure with 8+ years of technical experience. Extensive experience deploying, updating, migrating and maintaining Active Directory, Azure Active Directory, AWS, Azure, and GCP environments. Heavy experience with SCCM (remote control, third party application deployment, patch management, monitoring, OS deployment). Experienced with MDM tools in corporate environments (BYOD, Zero Touch, application deployment, profile management, Intune/Endpoint and Apple Business Manager). 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+<mark>Active Directory • Azure Active Directory • Google Workspace • OKTA 
+Azure • GCP • AWS
+VMWare • Hyper V • ESXi
+DataDog • Sumologic • AWS CloudTrail • Cloud Audit • Azure Logic Analytics • LogRhythm
+SCCM • Symantec
+Powershell • Bash
+Apple Business Manager • AirWatch • Intune/Endpoint
+Windows 7/8/10/11 • Windows Server 2012/2012r2/2016/2019 • Mac OS • Linux Ubuntu/CentOS
+VLAN • DNS • DHCP
+</mark>
 
 content:
   - title: Projects # Title for the section
