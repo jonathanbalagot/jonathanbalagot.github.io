@@ -48,17 +48,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jonathan and I'm a IT Engineer experienced in on premise and cloud infrastructure with 8+ years of technical experience. Extensive experience deploying, updating, migrating and maintaining Active Directory, Azure Active Directory, AWS, Azure, and GCP environments. Heavy experience with SCCM (remote control, third party application deployment, patch management, monitoring, OS deployment). Experienced with MDM tools in corporate environments (BYOD, Zero Touch, application deployment, profile management, Intune/Endpoint and Apple Business Manager). 
+  Hi, my name is Jonathan and I'm a IT Engineer experienced in on premise and cloud infrastructure with 8+ years of technical experience. 
+  Extensive experience deploying, updating, migrating and maintaining Active Directory, Azure Active Directory, AWS, Azure, and GCP environments. 
+  Heavy experience with SCCM (remote control, third party application deployment, patch management, monitoring, OS deployment). 
+  Experienced with MDM tools in corporate environments (BYOD, Zero Touch, application deployment, profile management, Intune/Endpoint 
+  and Apple Business Manager). 
 
 content:
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - layout: left - Exchange 2013/2016, Google Mail
-      - Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
-      - Exchange 2013/2016, Google Mail
-      - Patch Management and Vendor Updates
-      - Vulnerability Assessment / Remediation
+    •	Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
