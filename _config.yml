@@ -37,6 +37,10 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+additional_links:
+- title: Pdf Download
+  icon: far fa-file-pdf
+  url: #
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -109,9 +113,7 @@ content:
             - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 
             and Laceworks for GCP and AWS for security posture
             
-- title: test # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+           content:
       - layout: left
         title: Symbiont
         link: symbiont.io
