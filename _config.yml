@@ -58,7 +58,7 @@ content:
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      `Active Directory, Azure Active Directory, Google Workspace, OKTA, M365` &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp`Cloud: Azure, AWS, GCP`
+      <mark>Active Directory, Azure Active Directory, Google Workspace, OKTA, M365</mark> &nbsp; <mark>Cloud: Azure, AWS, GCP</mark>
 
 
   - title: Professional Experience # Title for the section
