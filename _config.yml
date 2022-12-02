@@ -145,7 +145,7 @@ content:
     content:
       - layout: left
         title: Monroe College, New York
-        sub_title: Associates in Science: Computer Information Systems
+        sub_title: Associates in Science, Computer Information Systems
         description: | # this will include new lines to allow paragraphs
           - Summa Cum Laude.
           - President’s List
