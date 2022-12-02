@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jonathan Balagot
-title: Corporate IT Engineer
+title: Corporate IT Engineer / Senior Systems Administrator
 email: resume@jonathanbalagot.com
 website: jonathanbalagot.com
 
@@ -49,17 +49,6 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jonathan and I'm a IT Engineer experienced in on premise and cloud infrastructure with 8+ years of technical experience. Extensive experience deploying, updating, migrating and maintaining Active Directory, Azure Active Directory, AWS, Azure, and GCP environments. Heavy experience with SCCM (remote control, third party application deployment, patch management, monitoring, OS deployment). Experienced with MDM tools in corporate environments (BYOD, Zero Touch, application deployment, profile management, Intune/Endpoint and Apple Business Manager). 
-
-<mark>Active Directory • Azure Active Directory • Google Workspace • OKTA 
-Azure • GCP • AWS
-VMWare • Hyper V • ESXi
-DataDog • Sumologic • AWS CloudTrail • Cloud Audit • Azure Logic Analytics • LogRhythm
-SCCM • Symantec
-Powershell • Bash
-Apple Business Manager • AirWatch • Intune/Endpoint
-Windows 7/8/10/11 • Windows Server 2012/2012r2/2016/2019 • Mac OS • Linux Ubuntu/CentOS
-VLAN • DNS • DHCP
-</mark>
 
 content:
   - title: Projects # Title for the section
