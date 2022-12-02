@@ -58,7 +58,11 @@ content:
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-    •	Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
+| ------------- |:-------------:|
+| •	Active Directory, Azure Active Directory, Google Workspace, OKTA, M365    | •	Cloud: Azure, AWS, GCP |
+| col 2 is      | centered      | 
+| zebra stripes | are neat      |
+
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
