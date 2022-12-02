@@ -15,18 +15,18 @@ website: jonathanbalagot.com
 darkmode: false
 
 # Social links
-#twitter_username: facespics
-#github_username:  sproogen
+#twitter_username: jonathan-balagot
+#github_username:  jonathanbalagot
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# dribbble_username: jonathan-balagot
+# facebook_username: jonathan-balagot
+# flickr_username: jonathan-balagot
 #instagram_username: jameswgrant
 linkedin_username: jonathan-balagot
-# xing_username: jekyll
-# pinterest_username: jekyll
+# xing_username: jonathan-balagot
+# pinterest_username: jonathan-balagot
 #youtube_username: globalmtb
-# googleplus_username: +jekyll
+# googleplus_username: +jonathan-balagot
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -78,8 +78,6 @@ content:
       - Monitoring: DataDog, Sumologic, AWS CloudTrail, Cloud Audit, Azure Log Analytics, Log Rhythm, SCOM
       - Networking: VLAN, DNS, DHCP, TCP/IP
 
-
-
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -113,7 +111,6 @@ content:
             - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 
             and Laceworks for GCP and AWS for security posture
           
-
   - title: # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -175,9 +172,7 @@ content:
             - Commissioned and decommissioned HPE Proliant servers
             - Assisted company with PCI-DSS certification by working with auditors and remediating findings 
             - Assisted with application implementations and upgrades such as Imprivata SSO and Gemalto HSM
-           
 
-          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -188,7 +183,6 @@ content:
           - Summa Cum Laude.
           - President’s List
           - Dean’s List
-
 
 # Footer
 footer_show_references: false
