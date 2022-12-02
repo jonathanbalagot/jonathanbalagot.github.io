@@ -58,7 +58,7 @@ content:
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-    test
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
 
 
   - title: Professional Experience # Title for the section
