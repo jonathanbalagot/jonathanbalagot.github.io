@@ -58,21 +58,21 @@ content:
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      -Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
-      -Exchange 2013/2016, Google Mail
-      -Patch Management and Vendor Updates
-      -Vulnerability Assessment / Remediation
-      -Server and Storage Infrastructure
-      -24x7 End User and Server Support
-      -Authentication Protocols (MFA/SAML/ADFS/OICD/OAuth/SCIM)
-      -Agile Methodology
-      -Cloud: Azure, AWS, GCP
-      -Virtualization: VMWare, Hyper V, ESXi
-      -Deployment: SCCM, Symantec
-      -Scripting: Powershell, Bash
-      -MDM: Apple Business Manager, Workspace ONE UEM, Intune/Endpoint
-      -Monitoring: DataDog, Sumologic, AWS CloudTrail, Cloud Audit, Azure Log Analytics, Log Rhythm, SCOM
-      -Networking: VLAN, DNS, DHCP, TCP/IP
+      - Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
+      - Exchange 2013/2016, Google Mail
+      - Patch Management and Vendor Updates
+      - Vulnerability Assessment / Remediation
+      - Server and Storage Infrastructure
+      - 24x7 End User and Server Support
+      - Authentication Protocols (MFA/SAML/ADFS/OICD/OAuth/SCIM)
+      - Agile Methodology
+      - Cloud: Azure, AWS, GCP
+      - Virtualization: VMWare, Hyper V, ESXi
+      - Deployment: SCCM, Symantec
+      - Scripting: Powershell, Bash
+      - MDM: Apple Business Manager, Workspace ONE UEM, Intune/Endpoint
+      - Monitoring: DataDog, Sumologic, AWS CloudTrail, Cloud Audit, Azure Log Analytics, Log Rhythm, SCOM
+      - Networking: VLAN, DNS, DHCP, TCP/IP
 
 
 
