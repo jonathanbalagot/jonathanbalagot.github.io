@@ -109,6 +109,39 @@ content:
             - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 
             and Laceworks for GCP and AWS for security posture
             
+- title: &nbsp; # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Symbiont
+        link: symbiont.io
+        # link_text: boringcompany.com
+        sub_title: Corporate IT Engineer
+        caption: January 2022 – Present
+        quote: >
+          Symbiont is a leading technology company focused on solving complex global finance problems using a novel enterprise blockchain solution.
+        description: | # this will include new lines to allow paragraphs
+            - Maintained company cloud infrastructure (GCP, AWS, Azure) by managing virtual machines (AWS ECS, Azure VM, and Google Compute), 
+            managing storage (AWS S3 and Google Buckets) and IAM to create/maintain RBAC group policies
+            - Managed company collaboration environment, Google Workspace by creating accounts, mailboxes, setting Google Drive sharing permissions 
+            and facilitating calendar meetings.
+            - Set up the S/MIME email for encryption and tiered life cycle rules Amazon S3/Cloudfront for secure file transfer between company 
+            and clients. Managed use access with Cognito.
+            - Acted as a SME for company IDP using SAML and SCIM. OKTA was used as primary and Google Workspace/M365/Auth0 as secondary
+            - SME for company SaaS applications, such as Notion, Github, JIRA, Greenhouse, Lattice, O’Reilly, Expensify, KnowBe4, Lucidchart, 
+            Miro, Organimi, Zoom, WebEx
+            - Reduced company financial burden by managing scalable resources for storage and virtualization along with taking ownership of 
+            technical support system to eliminate the need for outsourced helpdesk. Tasked with remediating IT related hardware, access and 
+            licensing issues
+            - Managed DNS hostnames through Cloudflare and Route53 to ensure proper propagation of company website and auxiliary domains
+            - Maintained company Slack channels by setting permissions for guest and application access
+            - Maintained user access for employees from policy management, onboarding/off-boarding to decommissioning user equipment as necessary
+            - Redesigned laptop deployment to use Apple Zero-Touch and MDM for MacBooks with Apple Business Manager and VMWare Workspace ONE.
+            - Reviewed access logs through Datadog and Sumologic as SIEM tools and resolved security issues 
+            - Facilitated the deployment of 1Password for centralized storage of secured passwords, secrets, and keys
+            - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 
+            and Laceworks for GCP and AWS for security posture
+            
 
 
 
