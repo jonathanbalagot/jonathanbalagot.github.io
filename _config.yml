@@ -54,7 +54,12 @@ content:
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - layout: left
+      - Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
+      - Exchange 2013/2016, Google Mail
+      - Patch Management and Vendor Updates
+      - Vulnerability Assessment / Remediation
+      - layout: right
       - Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
       - Exchange 2013/2016, Google Mail
       - Patch Management and Vendor Updates
