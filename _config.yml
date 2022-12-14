@@ -9,7 +9,11 @@ version: 2
 name: Jonathan Balagot
 title: Corporate IT Engineer / Senior Systems Administrator
 email: resume@jonathanbalagot.com
+# email_title: Email (Email title override)
+phone: 917-652-6080
+# phone_title: Phone (Phone title override)
 website: jonathanbalagot.com
+# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
