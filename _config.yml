@@ -190,7 +190,7 @@ content:
             - Use Windows File Server and ManageEngine DataSecurity to locate PCI/PII data that are saved in non-encrypted network locations. 
             Inform employees of improper data usage
             - Create encrypted network shares via Symantec Encryption
-            - Implemented Apple DEP and VPP for Airwatch MDM management 
+            - Implemented Apple DEP and VPP for VMWare Workspace ONE MDM management 
             - Assisted with application implementations and upgrades such as Imprivata SSO, Gemalto HSM and Symantec Encryption
             - Provider after hour support for remote work such as system monitoring, patch management and system upgrades
             - Perform multiple production system upgrades
