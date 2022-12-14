@@ -67,14 +67,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 8+ years in IT field
-      - Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
+      - On-Prem and Azure Active Directory, Google Workspace, OKTA, M365, Microsoft Office
       - Exchange 2013/2016, Google Mail
       - Patch Management and Vendor Updates
       - Vulnerability Assessment / Remediation
       - Server and Storage Infrastructure
       - 24x7 End User and Server Support
       - Authentication Protocols (MFA/SAML/ADFS/OICD/OAuth/SCIM)
-      - Agile and DevOps Methodology	      - Cloud: Azure, AWS, GCP
+      - Agile and DevOps Methodology	      
+      - Cloud: Azure, AWS, GCP
       - Virtualization: VMWare, Hyper V, ESXi
       - Deployment: SCCM, Symantec, Ansible, Terraform
       - Scripting: Powershell, Bash
@@ -107,8 +108,8 @@ content:
             - SME for company IDP using SAML and SCIM. OKTA was used as primary and Google Workspace/M365/Auth0 as secondary
             - SME and IAM access for company SaaS applications, such as Notion, Github, JIRA, Greenhouse, Lattice, O’Reilly, Expensify, KnowBe4, 
             Lucidchart, Miro, Organimi, Zoom, WebEx, Drata
-            - Company SME for remediating IT related hardware, access needs, licensing issues and any other IT related issue. Remove the need for 
-            outsourced helpdesk to reduce IT expenses
+            - Responsible for remediating IT related hardware, access needs, licensing issues and any other IT related issue. Removed the need for 
+            outsourced helpdesk to reduce IT expenses and bring support in-house
             - Managed DNS through Cloudflare and Route53 to ensure proper propagation of company website and auxiliary domains
             - Maintained and administrated company Slack channels by setting permissions for guest and application access
             - Worked closely with People Operations/HR to ensure smooth onboard/offboard experience as well as equipment retrieval
@@ -141,7 +142,7 @@ content:
             - Participated in Agile projects as Product Owner and Team Member to timely deliver MVPs at the end of sprints and the final product
             - Decommission Windows Server 2018 servers due to EOL and migrate required servers to 2012r2 or above
             - Physical to Virtual migration of servers to reduce operating overhead and consolidate physical servers
-            - Implementation of “Hybrid Azure-AD” via Cloud Connector as the company slowly transition to M365 cloud tools
+            - Implementation of “Hybrid Azure-AD” via Cloud Connector as the company slowly transition to M365 cloud applications
             - Implemented Microsoft VDI to ensure backoffice employees were able to work from home
             - Migrate from Cisco Webex to Microsoft Teams, create policies for standard usage and user documentations for employee – integrate A/V 
             hardware into conference rooms to utilize Teams
@@ -177,6 +178,7 @@ content:
             - Revamped SCCM structure to streamline device collections, application updates and monthly patch management cycles for servers and workstations
             - Trained staff on how to use SCCM, including application and patches to ensure coverage at all times to avoid SPOF
             - Implemented PXE imaging and golden images via SCCM to decrease downtime for new/replacement hardware 
+            - Remotely upgraded all instances of Office 2007 to Office 2016 via SCCM application deployment and scripting
             - Created documentation for troubleshooting and procedures for knowledge transfer and retention
             - Converted the existing IT ticketing system BridgeTrak to BMC TrackIT. Trained staff on how to use the ticketing system as a internal knowledgebase
             - Communicated with vendors for troubleshooting third party software
