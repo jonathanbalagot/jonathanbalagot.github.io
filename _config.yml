@@ -62,6 +62,7 @@ content:
   - title: Technical Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - 8+ years in IT field
       - Active Directory, Azure Active Directory, Google Workspace, OKTA, M365
       - Exchange 2013/2016, Google Mail
       - Patch Management and Vendor Updates
@@ -69,14 +70,14 @@ content:
       - Server and Storage Infrastructure
       - 24x7 End User and Server Support
       - Authentication Protocols (MFA/SAML/ADFS/OICD/OAuth/SCIM)
-      - Agile Methodology
-      - Cloud: Azure, AWS, GCP
+      - Agile and DevOps Methodology	      - Cloud: Azure, AWS, GCP
       - Virtualization: VMWare, Hyper V, ESXi
-      - Deployment: SCCM, Symantec
+      - Deployment: SCCM, Symantec, Ansible, Terraform
       - Scripting: Powershell, Bash
       - MDM: Apple Business Manager, Workspace ONE UEM, Intune/Endpoint
-      - Monitoring: DataDog, Sumologic, AWS CloudTrail, Cloud Audit, Azure Log Analytics, Log Rhythm, SCOM
+      - Monitoring: DataDog, Sumologic,CloudTrail, Cloud Audit, Azure Log Analytics, Log Rhythm, SCOM
       - Networking: VLAN, DNS, DHCP, TCP/IP
+
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -90,26 +91,32 @@ content:
         quote: >
           Symbiont is a leading technology company focused on solving complex global finance problems using a novel enterprise blockchain solution.
         description: | # this will include new lines to allow paragraphs
-            - Maintained company cloud infrastructure (GCP, AWS, Azure) by managing virtual machines (AWS ECS, Azure VM, and Google Compute), 
-            managing storage (AWS S3 and Google Buckets) and IAM to create/maintain RBAC group policies
-            - Managed company collaboration environment, Google Workspace by creating accounts, mailboxes, setting Google Drive sharing permissions 
-            and facilitating calendar meetings.
-            - Set up the S/MIME email for encryption and tiered life cycle rules Amazon S3/Cloudfront for secure file transfer between company 
-            and clients. Managed use access with Cognito.
-            - Acted as a SME for company IDP using SAML and SCIM. OKTA was used as primary and Google Workspace/M365/Auth0 as secondary
-            - SME for company SaaS applications, such as Notion, Github, JIRA, Greenhouse, Lattice, O’Reilly, Expensify, KnowBe4, Lucidchart, 
-            Miro, Organimi, Zoom, WebEx
-            - Reduced company financial burden by managing scalable resources for storage and virtualization along with taking ownership of 
-            technical support system to eliminate the need for outsourced helpdesk. Tasked with remediating IT related hardware, access and 
-            licensing issues
-            - Managed DNS hostnames through Cloudflare and Route53 to ensure proper propagation of company website and auxiliary domains
-            - Maintained company Slack channels by setting permissions for guest and application access
-            - Maintained user access for employees from policy management, onboarding/off-boarding to decommissioning user equipment as necessary
-            - Redesigned laptop deployment to use Apple Zero-Touch and MDM for MacBooks with Apple Business Manager and VMWare Workspace ONE.
-            - Reviewed access logs through Datadog and Sumologic as SIEM tools and resolved security issues 
-            - Facilitated the deployment of 1Password for centralized storage of secured passwords, secrets, and keys
-            - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 
-            and Laceworks for GCP and AWS for security posture
+      - Maintained company cloud infrastructure (GCP, AWS, Azure) by managing virtual machines (AWS ECS, Azure VM, and Google Compute), 
+      managing storage (AWS S3 and Google Buckets) and IAM to create/maintain RBAC group policies.
+      - Reduce cloud cost by implementing tiered storage policy, scaled down excess VM configurations and decommissioned stray running virtual 
+      machines that were no longer needed
+      - Managed company collaboration environment, Google Workspace by creating accounts, mailboxes, setting Google Drive sharing permissions 
+      and facilitating calendar meetings
+      - IAC deployment with Terraform and Ansible to spin up nodes and bring them up-to date for engineers to test code against
+      - Set up the S/MIME email for encryption and tiered life cycle rules Amazon S3/Cloudfront for secure file transfer between company and 
+      clients. Managed use access with Cognito
+      - SME for company IDP using SAML and SCIM. OKTA was used as primary and Google Workspace/M365/Auth0 as secondary
+      - SME and IAM access for company SaaS applications, such as Notion, Github, JIRA, Greenhouse, Lattice, O’Reilly, Expensify, KnowBe4, 
+      Lucidchart, Miro, Organimi, Zoom, WebEx, Drata
+      - Company SME for remediating IT related hardware, access needs, licensing issues and any other IT related issue. Remove the need for 
+      outsourced helpdesk to reduce IT expenses
+      - Managed DNS through Cloudflare and Route53 to ensure proper propagation of company website and auxiliary domains
+      - Maintained and administrated company Slack channels by setting permissions for guest and application access
+      - Worked closely with People Operations/HR to ensure smooth onboard/offboard experience as well as equipment retrieval
+      - Assist People Operations/HR with HR application integration and configuration such as TriNet HRIS, Greenhouse Recruiting/Onboard and 
+      Certn background check
+      - Redesigned laptop deployment to use Apple Zero-Touch and MDM for MacBooks with Apple Business Manager and VMWare Workspace ONE.
+      - Reviewed access logs through Datadog and Sumologic as SIEM tools and resolved security issues 
+      - Facilitated the deployment of 1Password for centralized storage of secured passwords, secrets, and keys
+      - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 and Laceworks 
+      for GCP and AWS for security posture
+      - Provide after hour support for international employees, application integration, system issues and server monitoring
+
           
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -123,26 +130,30 @@ content:
           Municipal Credit Union (MCU) is a state chartered credit union headquartered in New York City, 
           regulated under the authority of the National Credit Union Administration (NCUA). 
         description: | # this will include new lines to allow paragraphs
-            - Automated deployments tasks with PowerShell such as version upgrading/uninstall, reporting in Exchange/Active Directory, 
-            mass deletion of emails in Exchange, bulk moving of user/computer objects to OUs
-            - Responsible for Infrastructure System Administration for Active Directory, GPO, DNS and DHCP
-            - Run weekly change management meetings to discuss and/or review upcoming changes on all systems that are moving from UAT to Production
-            - Participated in Agile projects as Product Owner and Team Member to timely deliver MVPs at the end of sprints and the final product
-            - Supervised IT Helpdesk and IT Technician team to delegate support tasks 
-            - Managed Hyper-V and VMware ESXi virtualization systems 
-            - Decommission EOL Windows Server 2018 servers and migrate servers to 2012r2 or above
-            - Physical to Virtual migration of servers to reduce operating overhead and consolidate physical servers
-            - Implementation of “hybrid” m365 to co-exist with standard Microsoft Office suite as the company slowly transition 
-            productivity tools to the cloud. Migrate from Cisco Webex to Microsoft Teams, create policies for standard usage and user documentations for employee
-            - Assisted with annual BCP/DR failover by testing production site and ensuring backups are active
-            - Implemented Azure AD hybrid by using Cloud Connector to make sure on premise AD is replicated to the cloud 
-            - Converted the existing IT ticketing system BridgeTrak to BMC TrackIT
-            - Implemented Apple DEP and VPP for Airwatch MDM management 
-            - Managed the lifecycle and development of SCCM, including patch management, third party application/package deployment/removal, 
-            golden image creation, PXE imaging and reporting
-            - Managed and maintained Exchange 2013/2016 servers, migrating mailboxes to testing high availability
-            - Worked with developers to create a new in-house onboarding and off-boarding system
-            - Implemented policies and groups for Cisco AMP/Cisco Secure Endpoint to replace Symantec Endpoint
+      - Automated deployments tasks with PowerShell such as version upgrading, reporting in Exchange/Active Directory, 
+      mass deletion of emails in Exchange, bulk moving of user/computer objects to OUs
+      - Responsible for Infrastructure System Administration for on-premises Active Directory, user/computer GPO, DNS and DHCP
+      - Managed Hyper-V and VMware ESXi virtualization systems 
+      - Participated in Agile projects as Product Owner and Team Member to timely deliver MVPs at the end of sprints and the final product
+      - Decommission Windows Server 2018 servers due to EOL and migrate required servers to 2012r2 or above
+      - Physical to Virtual migration of servers to reduce operating overhead and consolidate physical servers
+      - Implementation of “Hybrid Azure-AD” via Cloud Connector as the company slowly transition to M365 cloud tools
+      - Implemented Microsoft VDI to ensure backoffice employees were able to work from home
+      - Migrate from Cisco Webex to Microsoft Teams, create policies for standard usage and user documentations for employee – integrate A/V 
+      hardware into conference rooms to utilize Teams
+      - Assisted with annual BCP/DR failover by testing production site and ensuring backups are active incase of a disaster
+      - Supervised IT Helpdesk and IT Technician team by delegating support tasks and/or projects
+      - Trained helpdesk and technician staff to ensure they are equipped with proper knowledge to support employee needs via remote or physical means  
+      - Responsible for IT equipment inventory and created an asset management system to track the ownership of devices such as laptops, 
+      monitors, desktops and mobile devices
+      - SME of the lifecycle and development of SCCM for Servers, Workstations and ATMs
+      - Monitored and maintained Veritas Netbackup policies and jobs, handling upgrades with support from vendors
+      - Managed and maintained Exchange 2013/2016 servers, migrating mailboxes to testing high availability
+      - Worked with developers to create a new in-house onboarding and off-boarding system
+      - Implemented policies and groups for Cisco AMP/Cisco Secure Endpoint to replace Symantec Endpoint
+      - Handled vendor management for server, software and infrastructure orders
+      - Acted as an SME for Jack Henry’s Synergy and ImageCenter applications 
+
             
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -156,22 +167,27 @@ content:
           Municipal Credit Union (MCU) is a state chartered credit union headquartered in New York City, 
           regulated under the authority of the National Credit Union Administration (NCUA). 
         description: | # this will include new lines to allow paragraphs
-            - Utilized Powershell for changing TCP/IP settings on workstations, mass renaming files, 
-            backing up print server and reporting VM replication status
-            - Planned, facilitated and migrated Windows 7 to Windows 10 via hardware upgrades or SCCM based on hardware age
-            - Support end users with their operating system and application issues physically and remotely
-            - Implement SCOM for server monitoring and stability, act on alerts triggered during/after business hours
-            - Remediate Symantec Endpoint Protection alerts related to device control, malware/antivirus findings
-            - Created documentation for troubleshooting and procedures for knowledge transfer and retention
-            - Communicated with vendors for troubleshooting third party software
-            - Acted as Tier 3 escalation support for helpdesk and technician issues
-            - Resolved ticket issues involving company hardware such as printers, keyboards, mice and other peripherals 
-            - Commissioned and decommissioned HPE Proliant servers. Perform server hardware upgrades such as adding PCI cards, 
-            RAID cards, RAM, HDD/SDD, CPU and PSU.
-            - Assisted company with PCI-DSS certification by working with auditors and remediating findings 
-            - Assisted with application implementations and upgrades such as Imprivata SSO and Gemalto HSM for file encryption
-            - Acted as an SME for Jack Henry’s Synergy and ImageCenter applications 
-            - Responsible for IT equipment inventory and created an asset management system to track the ownership of devices
+      - Utilized Powershell for targeted application uninstalls, changing TCP/IP settings on workstations, mass renaming files, 
+      backing up print server and reporting VM replication status
+      - Planned, facilitated and migrated Windows 7 to Windows 10 via hardware upgrades or SCCM based on hardware age
+      - Revamped SCCM structure to streamline device collections, application updates and monthly patch management cycles for servers and workstations
+      - Trained staff on how to use SCCM, including application and patches to ensure coverage at all times to avoid SPOF
+      - Implemented PXE imaging and golden images via SCCM to decrease downtime for new/replacement hardware 
+      - Created documentation for troubleshooting and procedures for knowledge transfer and retention
+      - Converted the existing IT ticketing system BridgeTrak to BMC TrackIT
+      - Communicated with vendors for troubleshooting third party software
+      - Acted as Tier 3 escalation support for helpdesk issues. Support end users with their operating system and application issues physically and remotely
+      - Resolved ticket issues involving company hardware such as printers, keyboards, mice and other peripherals 
+      - Commissioned and decommissioned HPE Proliant servers
+      - Assisted company with PCI-DSS certification by working with auditors and remediating findings
+      - Use Windows File Server and ManageEngine DataSecurity to locate PCI/PII data that are saved in non-encrypted network locations. 
+      Inform employees of improper data usage
+      - Create encrypted network shares via Symantec Encryption
+      - Implemented Apple DEP and VPP for Airwatch MDM management 
+      - Assisted with application implementations and upgrades such as Imprivata SSO, Gemalto HSM and Symantec Encryption
+      - Provider after hour support for remote work such as system monitoring, patch management and system upgrades
+      - Perform multiple production system upgrades
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
