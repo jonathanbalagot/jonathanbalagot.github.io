@@ -21,11 +21,11 @@ darkmode: false
 # dribbble_username: jonathan-balagot
 # facebook_username: jonathan-balagot
 # flickr_username: jonathan-balagot
-#instagram_username: jameswgrant
+#instagram_username: jonathan-balagot
 linkedin_username: jonathan-balagot
 # xing_username: jonathan-balagot
 # pinterest_username: jonathan-balagot
-#youtube_username: globalmtb
+#youtube_username: jonathan-balagot
 # googleplus_username: +jonathan-balagot
 # orcid_username: 0000-0000-0000-0000
 
@@ -40,7 +40,7 @@ additional_links:
 additional_links:
 - title: Pdf Download
   icon: far fa-file-pdf
-  url: #
+  url: https://jonathanbalagot.com/Jonathan-Balagot-Resume-2022.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -126,7 +126,7 @@ content:
         title: Municipal Credit Union
         link: nymcu.org
         sub_title: Senior System Administrator
-        caption: November 2019 – December 2021
+        caption: November 2019 – January 2022
         quote: >
           Internal promotion within Municipal Credit Union (MCU). Inherited new responsibilities while continuing responsibilities prior to promotion.
         description: | # this will include new lines to allow paragraphs
