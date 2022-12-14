@@ -92,9 +92,7 @@ content:
         link: symbiont.io
         # link_text: boringcompany.com
         sub_title: Corporate IT Engineer
-        caption: January 2022 – Present Inline-style: 
-        ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+        caption: January 2022 – Present 
         quote: >
           Symbiont is a leading technology company focused on solving complex global finance problems using a novel enterprise blockchain solution.
         description: | # this will include new lines to allow paragraphs
