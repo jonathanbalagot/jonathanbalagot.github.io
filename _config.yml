@@ -115,6 +115,7 @@ content:
             - Facilitated the deployment of 1Password for centralized storage of secured passwords, secrets, and keys
             - Integrated several security tools such as Drata into cloud resources for audit compliance and risk compliance following SOC2 and Laceworks 
             for GCP and AWS for security posture
+            - Created documentation for users to follow during new system implementations
             - Provide after hour support for international employees, application integration, system issues and server monitoring
 
           
@@ -126,10 +127,8 @@ content:
         link: nymcu.org
         sub_title: Senior System Administrator
         caption: November 2019 – December 2021
-        caption: November 2019 – December 2021
         quote: >
-          Municipal Credit Union (MCU) is a state chartered credit union headquartered in New York City, 
-          regulated under the authority of the National Credit Union Administration (NCUA). 
+          Internal promotion within Municipal Credit Union (MCU). Inherited new responsibilities while continuing responsibilities prior to promotion.
         description: | # this will include new lines to allow paragraphs
             - Automated deployments tasks with PowerShell such as version upgrading, reporting in Exchange/Active Directory, 
             mass deletion of emails in Exchange, bulk moving of user/computer objects to OUs
@@ -175,9 +174,10 @@ content:
             - Trained staff on how to use SCCM, including application and patches to ensure coverage at all times to avoid SPOF
             - Implemented PXE imaging and golden images via SCCM to decrease downtime for new/replacement hardware 
             - Created documentation for troubleshooting and procedures for knowledge transfer and retention
-            - Converted the existing IT ticketing system BridgeTrak to BMC TrackIT
+            - Converted the existing IT ticketing system BridgeTrak to BMC TrackIT. Trained staff on how to use the ticketing system as a internal knowledgebase
             - Communicated with vendors for troubleshooting third party software
-            - Acted as Tier 3 escalation support for helpdesk issues. Support end users with their operating system and application issues physically and remotely
+            - Acted as Tier 3 escalation support for helpdesk issues. Support end users with their operating system and application issues physically 
+            and remotely
             - Resolved ticket issues involving company hardware such as printers, keyboards, mice and other peripherals 
             - Commissioned and decommissioned HPE Proliant servers
             - Assisted company with PCI-DSS certification by working with auditors and remediating findings
