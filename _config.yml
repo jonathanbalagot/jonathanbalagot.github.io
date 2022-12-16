@@ -50,7 +50,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
- #google_analytics: "UA-252283470-1"
+  google_analytics: "UA-252283470-1"
 
 # About Section
 # about_title: About Me
