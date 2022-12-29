@@ -56,11 +56,18 @@ additional_links:
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jonathan and I'm a IT Engineer/System Administrator experienced in on premise and cloud infrastructure with 8+ years of technical experience. 
-  Extensive experience deploying, updating, migrating and maintaining Active Directory, Azure Active Directory, AWS, Azure, and GCP environments. 
-  Heavy experience with SCCM (remote control, third party application deployment, patch management, monitoring, OS deployment). 
-  Experienced with MDM tools in corporate environments (BYOD, Zero Touch, application deployment, profile management, Intune/Endpoint 
-  and Apple Business Manager). 
+  Hi, my name is Jonathan and I'm a IT Engineer and System Administrator experienced in on premise and cloud infrastructure with 8+ years of technical 
+  experience with a understanding of the unique challenges and opportunities presented by SaaS environments. Extensive experience deploying, updating, 
+  migrating and maintaining Active Directory, Azure Active Directory, AWS, Azure, and GCP environments. Heavy experience with SCCM (remote control, 
+  third party application deployment, patch management, monitoring, OS deployment). Experienced with MDM tools in corporate environments 
+  (BYOD, Zero Touch, application deployment, profile management, Intune/Endpoint and Apple Business Manager).
+  
+  I have the skills and expertise needed to effectively manage and maintain a wide range of systems and processes. 
+  My ability to effectively manage and maintain corporate environments has made me a valuable asset to my team and organizations.
+  
+  I am always seeking out new opportunities to learn and grow, and I am excited to connect with other professionals in my field to explore 
+  new opportunities for collaboration and growth. Please feel free to reach out to me to connect or learn more about my experience and expertise.
+
 
 content:
   - title: Technical Experience
